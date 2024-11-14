@@ -1,0 +1,16 @@
+/* /css/style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
